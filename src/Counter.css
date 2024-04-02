@@ -1,0 +1,18 @@
+.container {
+  text-align: center;
+}
+
+h1 {
+  padding-top: 300px;
+}
+
+p {
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.buttons button {
+  font-size: 15px;
+  cursor: pointer;
+  margin: 25px;
+}
